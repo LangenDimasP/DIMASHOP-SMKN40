@@ -1,0 +1,11 @@
+{
+  "name": "Dimashop",
+  "short_name": "Dimashop",
+  "start_url": "/kasir/transaksi",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#42bec4",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" }
+  ]
+}
